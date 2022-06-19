@@ -2,6 +2,7 @@
 
 ### NextJS ?
 
+
 ### NextJS key features and benefits
 
 ### Project Structure
